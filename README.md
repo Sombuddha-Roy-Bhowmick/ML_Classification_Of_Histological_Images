@@ -22,16 +22,19 @@ ResNet50 and VGG16 are both deep learning models used for image classification t
 1. Conventional CNN:
 
 Test Loss: 0.757960855960846
+
 Test Accuracy: 0.6947954297065735
 
 2. ResNet50:
 
 Test Loss: 0.6655075550079346
+
 Test Accuracy: 0.609785258769989
 
 3. VGG16:
 
 Test Loss: 0.5571413636207581
+
 Test Accuracy: 0.7199605107307434
 
 ## VGG16 performs the best among the three models, followed by conventional CNN and ResNet50.
