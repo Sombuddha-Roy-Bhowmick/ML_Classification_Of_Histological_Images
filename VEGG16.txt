@@ -1,0 +1,11 @@
+              precision    recall  f1-score   support
+
+      MSIMUT       0.40      0.34      0.37      7503
+         MSS       0.61      0.66      0.64     11727
+
+    accuracy                           0.54     19230
+   macro avg       0.50      0.50      0.50     19230
+weighted avg       0.53      0.54      0.53     19230
+
+Test Loss: 0.5571413636207581
+Test Accuracy: 0.7199605107307434
